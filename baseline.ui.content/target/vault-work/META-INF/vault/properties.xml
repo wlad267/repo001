@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>aemseed - UI content</comment>
+<entry key="createdBy">StefanGhita</entry>
+<entry key="name">baseline.ui.content</entry>
+<entry key="created">2016-03-30T12:58:30.355+0300</entry>
+<entry key="groupId">com.ibm.uk.ibmix</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aemseed Content Package</entry>
+<entry key="description">UI content package for aemseed</entry>
+<entry key="artifactId">baseline.ui.content</entry>
+<entry key="path">/etc/packages/aemseed Content Package/baseline.ui.content.zip</entry>
+</properties>
